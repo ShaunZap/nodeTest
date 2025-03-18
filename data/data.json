@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "age": 30,
+    "isActive": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    "hobbies": ["reading", "cycling", "gaming"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "age": 25,
+    "isActive": false,
+    "address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001"
+    },
+    "hobbies": ["painting", "traveling"]
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "email": "michaelj@example.com",
+    "age": 35,
+    "isActive": true,
+    "address": {
+      "street": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    },
+    "hobbies": ["cooking", "basketball"]
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emilyd@example.com",
+    "age": 28,
+    "isActive": true,
+    "address": {
+      "street": "321 Pine St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77001"
+    },
+    "hobbies": ["hiking", "yoga", "photography"]
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "davidw@example.com",
+    "age": 40,
+    "isActive": false,
+    "address": {
+      "street": "654 Cedar St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001"
+    },
+    "hobbies": ["fishing", "golf"]
+  },
+  {
+    "id": 6,
+    "name": "Sophia Martinez",
+    "email": "sophiam@example.com",
+    "age": 22,
+    "isActive": true,
+    "address": {
+      "street": "987 Birch St",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19101"
+    },
+    "hobbies": ["dancing", "singing"]
+  },
+  {
+    "id": 7,
+    "name": "James Brown",
+    "email": "jamesb@example.com",
+    "age": 33,
+    "isActive": true,
+    "address": {
+      "street": "159 Maple St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201"
+    },
+    "hobbies": ["running", "chess"]
+  },
+  {
+    "id": 8,
+    "name": "Olivia Garcia",
+    "email": "oliviag@example.com",
+    "age": 27,
+    "isActive": false,
+    "address": {
+      "street": "753 Spruce St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101"
+    },
+    "hobbies": ["swimming", "painting"]
+  },
+  {
+    "id": 9,
+    "name": "William Anderson",
+    "email": "williama@example.com",
+    "age": 38,
+    "isActive": true,
+    "address": {
+      "street": "852 Fir St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201"
+    },
+    "hobbies": ["gaming", "woodworking"]
+  },
+  {
+    "id": 10,
+    "name": "Isabella Thomas",
+    "email": "isabellat@example.com",
+    "age": 24,
+    "isActive": true,
+    "address": {
+      "street": "963 Willow St",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95101"
+    },
+    "hobbies": ["baking", "traveling"]
+  }
+]
